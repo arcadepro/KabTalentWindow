@@ -1,0 +1,7 @@
+## Title: |cff3399FFKab|r Talent Window
+## Interface: 90001
+## Author: Kab
+## Version: 1.0
+## Notes: Links the Azerite Neck and Talent Windows.
+
+KabTalentWindow.lua
